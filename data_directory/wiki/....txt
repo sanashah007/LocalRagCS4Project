@@ -1,0 +1,1305 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Style
+
+     2 In writing
+
+     3 In different languages
+   (BUTTON) Toggle In different languages subsection
+     * 3.1 In English
+
+     * 3.1.1 American English
+
+     3.1.2 British English
+
+
+
+   3.2 In Polish
+
+
+
+   3.3 In Russian
+
+
+
+   3.4 In Japanese
+
+
+
+   3.5 In Chinese
+
+
+
+   3.6 In Spanish
+
+
+
+   3.7 In French
+
+
+
+   3.8 In German
+
+
+
+   3.9 In Italian
+
+
+
+   4 In mathematical notation
+
+
+
+   5 In computer programming
+
+
+
+   6 In computer user interface
+
+   (BUTTON) Toggle In computer user interface subsection
+     * 6.1 More
+
+
+
+   6.2 More info needed
+
+
+
+   6.3 Busy/progress
+
+
+
+   7 In texting
+
+
+
+   8 Computer representations
+
+   (BUTTON) Toggle Computer representations subsection
+     * 8.1 Unicode
+
+
+
+   8.2 HTML
+
+
+
+   8.3 TeX
+
+
+
+   8.4 Other
+
+
+
+   8.5 Input
+
+
+
+   9 See also
+
+
+
+   10 References
+
+
+
+   11 Further reading
+
+
+
+   12 External links
+
+   [ ] Toggle the table of contents
+
+Ellipsis
+
+   [ ] 65 languages
+     * Afrikaans
+     * a+l+e+r+b+y+tm
+     * Aragons
+     * Az@rbaycanca
+     * t+r+g+h+
+     * Belaruskaya (tarashkeviica)
+     * B"lgarski
+     * Brezhoneg
+     * Catal
+     * CHvashla
+     * Cestina
+     * Dansk
+     * Deutsch
+     * Eesti
+     * Ellynika'
+     * Espaol
+     * Esperanto
+     * Euskara
+     * f+a+r+s+
+     * Franais
+     * Frysk
+     * Gaeilge
+     * Galego
+     * Hal'mg
+     * 
+     * 
+     * Hrvatski
+     * Bahasa Indonesia
+     * Italiano
+     * E+B+R+J+T+
+     * azasha
+     * Latviesu
+     * Lietuviu
+     * Magyar
+     * Makedonski
+     * Malagasy
+     * Bahasa Melayu
+     * Nederlands
+     * 
+     * Norsk bokml
+     * Norsk nynorsk
+     * Occitan
+     * O;Szbekcha / v%zbekcha
+     * Polski
+     * Portugus
+     * Romna
+     * Russkij
+     * s+r+a+yH
+     * Scots
+     * Shqip
+     * Simple English
+     * s+n+y+
+     * Slovencina
+     * Slovenscina
+     * Srpski / srpski
+     * Srpskohrvatski / srpskohrvatski
+     * Suomi
+     * Svenska
+     * 
+     * Trke
+     * Ukrayins'ka
+     * Tie>'ng Vie>-.t
+     * 
+     * 
+     * 
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   (Redirected from ...)
+   Triple-dot punctuation mark
+   This article is about the punctuation mark. For the syntactic omission
+   of words, see Ellipsis (linguistics). For other uses, see Ellipsis
+   (disambiguation).
+   "..." redirects here. For other uses, see Three dots (disambiguation).
+   Not to be confused with Ellipse.
+
+     ...
+   Ellipsis
+   U+2026
+   ... HORIZONTAL ELLIPSIS (&hellip;, &mldr;)
+
+           ...        . . .             .3                :3
+        AP format Chicago format Mid-line ellipsis Vertical ellipsis
+
+   The ellipsis (/@|lIpsIs/, plural ellipses; from Ancient Greek:
+   lleiqi*s, lleipsis, lit. 'leave out'^[1]), rendered ..., alternatively
+   described as suspension points^[2]^: 19 /dots, points^[2]^: 19 /periods
+   of ellipsis, or ellipsis points,^[2]^: 19 or colloquially,
+   dot-dot-dot,^[not verified in body]^[3]^[4] is a punctuation mark
+   consisting of a series of three dots. An ellipsis can be used in many
+   ways, such as for intentional omission of text or numbers, to imply a
+   concept without using words.^[1] Style guides differ on how to render
+   an ellipsis in printed material.
+
+Style
+
+   [edit]
+
+   Opinions differ on how to render an ellipsis in printed material and
+   are to some extent based on the technology used for rendering.
+   According to The Chicago Manual of Style, it should consist of three
+   periods, each separated from its neighbor by a non-breaking space:
+   . . ..^[5] According to the AP Stylebook, the periods should be
+   rendered with no space between them: ....^[6] A third option -
+   available in electronic text - is to use the precomposed character
+   U+2026 ... HORIZONTAL ELLIPSIS.^[7] When text is omitted following a
+   sentence, a period (full stop) terminates the sentence, and a
+   subsequent ellipsis indicates one or more omitted sentences before
+   continuing a longer quotation. Business Insider magazine suggests this
+   style^[8] and it is also used in many academic journals. The Associated
+   Press Stylebook favors this approach.^[9]
+
+   When a sentence ends with ellipsis, some style guides indicate there
+   should be four dots; three for ellipsis and a period. Chicago advises
+   it,^[10] as does the Publication Manual of the American Psychological
+   Association (APA style),^[11] while some other style guides do not; the
+   Merriam-Webster Dictionary and related works treat this style as
+   optional, saying that it "may" be used.^[12]
+
+In writing
+
+   [edit]
+
+   In her book on the ellipsis, Ellipsis in English Literature: Signs of
+   Omission, Anne Toner suggests that the first use of the punctuation in
+   the English language dates to a 1588 translation of Terence's Andria,
+   by Maurice Kyffin.^[3] In this case, however, the ellipsis consists not
+   of dots but of short dashes.^[13] "Subpuncting" of medieval manuscripts
+   also denotes omitted meaning and may be related.^[14]
+
+   Occasionally, it would be used in pulp fiction and other works of early
+   20th-century fiction to denote expletives that would otherwise have
+   been censored.^[15]
+
+   An ellipsis may also imply an unstated alternative indicated by
+   context. For example, "I never drink wine ..." implies that the speaker
+   does drink something else--such as vodka.
+
+   In reported speech, the ellipsis can be used to represent an
+   intentional silence.
+
+   In poetry, an ellipsis is used as a thought-pause or line break at the
+   caesura^[16] or this is used to highlight sarcasm or make the reader
+   think about the last points in the poem.
+
+   In news reporting, often put inside square brackets, it is used to
+   indicate that a quotation has been condensed for space, brevity or
+   relevance, as in "The President said that [...] he would not be
+   satisfied", where the exact quotation was "The President said that, for
+   as long as this situation continued, he would not be satisfied".
+
+   Herb Caen, Pulitzer-prize-winning columnist for the San Francisco
+   Chronicle, became famous for his "three-dot journalism".^[17]
+
+   Depending on context, ellipsis can indicate an unfinished thought, a
+   leading statement, a slight pause, an echoing voice, or a nervous or
+   awkward silence. Aposiopesis is the use of an ellipsis to trail off
+   into silence--for example: "But I thought he was..." When placed at the
+   end of a sentence, an ellipsis may be used to suggest melancholy or
+   longing.^[18]
+
+   In newspaper and magazine columns, ellipses may separate items of a
+   list instead of paragraph breaks.^[2]^: 21
+
+   Merriam-Webster's Manual for Writers and Editors uses a line of
+   ellipsis to indicate omission of whole lines in a quoted poem.^[2]^:
+   147
+
+In different languages
+
+   [edit]
+
+In English
+
+   [edit]
+
+American English
+
+   [edit]
+
+   The Chicago Manual of Style suggests the use of an ellipsis for any
+   omitted word, phrase, line, or paragraph from within but not at the end
+   of a quoted passage. There are two commonly used methods of using
+   ellipses: one uses three dots for any omission, while the second one
+   makes a distinction between omissions within a sentence (using three
+   dots: . . .) and omissions between sentences (using a period and a
+   space followed by three dots: . ...). The Chicago Style Q&A recommends
+   that writers avoid using the precomposed ... (U+2026) character in
+   manuscripts and to place three periods plus two nonbreaking spaces
+   (. . .) instead, leaving the editor, publisher, or typographer to
+   replace them later.^[19]
+
+   The Modern Language Association (MLA) used to indicate that an ellipsis
+   must include spaces before and after each dot in all uses. If an
+   ellipsis is meant to represent an omission, square brackets must
+   surround the ellipsis to make it clear that there was no pause in the
+   original quote: [ . . . ]. Currently, the MLA has removed the
+   requirement of brackets in its style handbooks. However, some maintain
+   that the use of brackets is still correct because it clears
+   confusion.^[20]
+
+   The MLA now indicates that a three-dot, spaced ellipsis  . . .  should
+   be used for removing material from within one sentence within a quote.
+   When crossing sentences (when the omitted text contains a period, so
+   that omitting the end of a sentence counts), a four-dot, spaced (except
+   for before the first dot) ellipsis . . . .  should be used. When
+   ellipsis points are used in the original text, ellipsis points that are
+   not in the original text should be distinguished by enclosing them in
+   square brackets (e.g. text [...] text).^[21]^[22]
+
+   According to the Associated Press, the ellipsis should be used to
+   condense quotations. It is less commonly used to indicate a pause in
+   speech or an unfinished thought or to separate items in material such
+   as show business gossip. The stylebook indicates that if the shortened
+   sentence before the mark can stand as a sentence, it should do so, with
+   an ellipsis placed after the period or other ending punctuation. When
+   material is omitted at the end of a paragraph and also immediately
+   following it, an ellipsis goes both at the end of that paragraph and at
+   the beginning of the next, according to this style.^[23]
+
+   According to Robert Bringhurst's Elements of Typographic Style, the
+   details of typesetting ellipses depend on the character and size of the
+   font being set and the typographer's preference. Bringhurst writes that
+   a full space between each dot is "another Victorian eccentricity. In
+   most contexts, the Chicago ellipsis is much too wide"--he recommends
+   using flush dots (with a normal word space before and after), or
+   thin-spaced dots (up to one-fifth of an em), or the prefabricated
+   ellipsis character U+2026
+   ... HORIZONTAL ELLIPSIS (&hellip;, &mldr;). Bringhurst suggests that
+   normally an ellipsis should be spaced fore-and-aft to separate it from
+   the text, but when it combines with other punctuation, the leading
+   space disappears and the other punctuation follows. This is the usual
+   practice in typesetting. He provides the following examples:
+
+   i ... j k.... l..., l l, ... l m...? n...!
+
+   In legal writing in the United States, Rule 5.3 in the Bluebook
+   citation guide governs the use of ellipses and requires a space before
+   the first dot and between the two subsequent dots. If an ellipsis ends
+   the sentence, then there are three dots, each separated by a space,
+   followed by the final punctuation (e.g. Hah . . . ?). In some legal
+   writing, an ellipsis is written as three asterisks, *** or * * *, to
+   make it obvious that text has been omitted or to signal that the
+   omitted text extends beyond the end of the paragraph.
+
+British English
+
+   [edit]
+
+   The Oxford Style Guide recommends setting the ellipsis as a single
+   character ... or as a series of three (narrow) spaced dots surrounded
+   by spaces, thus:  . . . . If there is an ellipsis at the end of an
+   incomplete sentence, the final full stop is omitted. However, it is
+   retained if the following ellipsis represents an omission between two
+   complete sentences.^[24]
+
+   The ... fox jumps ...
+   The quick brown fox jumps over the lazy dog. ... And if they have not
+   died, they are still alive today.
+   It is not cold ... it is freezing cold.
+
+   Contrary to The Oxford Style Guide, the University of Oxford Style
+   Guide demands an ellipsis not to be surrounded by spaces, except when
+   it stands for a pause; then, a space has to be set after the ellipsis
+   (but not before). An ellipsis is never preceded or followed by a full
+   stop.^[25]
+
+   The...fox jumps...
+   The quick brown fox jumps over the lazy dog...And if they have not
+   died, they are still alive today.
+   It is not cold... it is freezing cold.
+
+In Polish
+
+   [edit]
+
+   When applied in Polish syntax, the ellipsis is called wielokropek,
+   literally 'multidot'. The word wielokropek distinguishes the ellipsis
+   of Polish syntax from that of mathematical notation, in which it is
+   known as an elipsa. When an ellipsis replaces a fragment omitted from a
+   quotation, the ellipsis is enclosed in parentheses or square brackets.
+   An unbracketed ellipsis indicates an interruption or pause in speech.
+   The syntactic rules for ellipses are standardized by the 1983 Polska
+   Norma document PN-83/P-55366, Zasady skl/adania tekstw w jezyku
+   polskim (Rules for Setting Texts in Polish).
+
+In Russian
+
+   [edit]
+
+   The combination "ellipsis+period" is replaced by the ellipsis. The
+   combinations "ellipsis+exclamation mark" and "ellipsis+question mark"
+   are written in this way: !.. ?..
+
+In Japanese
+
+   [edit]
+
+   The most common character corresponding to an ellipsis is called 3-ten
+   rida ("3-dot leaders", ...). 2-ten rida exists as a character, but it
+   is used less commonly. In writing, the ellipsis consists usually of six
+   dots (two 3-ten rida characters, ......). Three dots (one 3-ten rida
+   character) may be used where space is limited, such as in a header.
+   However, variations in the number of dots exist. In horizontally
+   written text the dots are commonly vertically centered within the text
+   height (between the baseline and the ascent line), as in the standard
+   Japanese Windows fonts; in vertically written text the dots are always
+   centered horizontally. As the Japanese word for dot is pronounced
+   "ten", the dots are colloquially called "ten-ten-ten" (ten5ten5ten5,
+   akin to the English "dot dot dot").^[26]^[27]
+
+   In text in Japanese media, such as in manga or video games, ellipses
+   are much more frequent than in English, and are often changed to
+   another punctuation sign in translation. The ellipsis by itself
+   represents speechlessness, or a "pregnant pause". Depending on the
+   context, this could be anything from an admission of guilt to an
+   expression of being dumbfounded at another person's words or
+   actions.^[28] As a device, the ten-ten-ten is intended to focus the
+   reader on a character while allowing the character to not speak any
+   dialogue. This conveys to the reader a focus of the narrative "camera"
+   on the silent subject, implying an expectation of some motion or
+   action. It is not unheard of to see inanimate objects "speaking" the
+   ellipsis.
+
+In Chinese
+
+   [edit]
+
+   In Chinese, the ellipsis is six dots (in two groups of three dots,
+   occupying the same horizontal or vertical space as two characters). In
+   horizontally written text the dots are commonly vertically centered
+   along the midline (halfway between the Roman descent and Roman ascent,
+   or equivalently halfway between the Roman baseline and the capital
+   height, i.e. .3.3). This is generally true of Traditional Chinese,
+   while Simplified Chinese tends to have the ellipses aligned with the
+   baseline;^[29] in vertically written text the dots are always centered
+   horizontally (i.e. Chinese:
+   ).^[30] Also note that Taiwan and Mainland China have different
+   punctuation standards.^[29]
+
+In Spanish
+
+   [edit]
+
+   In Spanish, the ellipsis is commonly used as a substitute of et cetera
+   at the end of unfinished lists. So it means "and so forth" or "and
+   other things".
+
+   Other use is the suspension of a part of a text, or a paragraph, or a
+   phrase or a part of a word because it is obvious, or unnecessary, or
+   implied. For instance, sometimes the ellipsis is used to avoid the
+   complete use of expletives.
+
+   When the ellipsis is placed alone into a parenthesis (...) or--less
+   often--between brackets [...], which is what happens usually within a
+   text transcription, it means the original text had more contents on the
+   same position but are not useful to our target in the transcription.
+   When the suppressed text is at the beginning or at the end of a text,
+   the ellipsis does not need to be placed in a parenthesis.
+
+   The number of dots is three and only three.^[31] They should have no
+   space in between them nor with the preceding word, but there should be
+   an space with the following word (except if they are followed by a
+   punctuation sign, such as a comma).^[31]
+
+In French
+
+   [edit]
+
+   In French, the ellipsis is commonly used at the end of lists to
+   represent et cetera. In French typography, the ellipsis is written
+   immediately after the preceding word, but has a space after it, for
+   example: comme a... pas comme ceci. If, exceptionally, it begins a
+   sentence, there is a space before and after, for example: Lui ? ...
+   vaut rien, je crois.... However, any omitted word, phrase or line at
+   the end of a quoted passage would be indicated as follows: [...] (space
+   before and after the square brackets but not inside), for example: ...
+    Paris, Nice, Nantes, Toulouse [...].
+
+In German
+
+   [edit]
+
+   In German, the ellipsis in general is surrounded by spaces, if it
+   stands for one or more omitted words. On the other side there is no
+   space between a letter or (part of) a word and an ellipsis, if it
+   stands for one or more omitted letters, that should stick to the
+   written letter or letters.
+
+   Example for both cases, using German style: The first el...is stands
+   for omitted letters, the second ... for an omitted word.
+
+   If the ellipsis is at the end of a sentence, the final full stop is
+   omitted.^[32]
+
+   Example: I think that ...
+
+In Italian
+
+   [edit]
+
+   The Accademia della Crusca suggests the use of an ellipsis ("puntini di
+   sospensione") to indicate a pause longer than a period and, when placed
+   between brackets, the omission of letters, words or phrases.^[33]
+
+     "Tra le cose pi preziose possedute da Andrea Sperelli era una
+     coperta di seta fina, d'un colore azzurro disfatto, intorno a cui
+     giravano i dodici segni dello Zodiaco in ricamo, con le
+     denominazioni [...] a caratteri gotici." (Gabriele D'Annunzio, Il
+     piacere)^[34]
+
+In mathematical notation
+
+   [edit]
+
+   An ellipsis is used in mathematics to mean "and so forth"; usually
+   indicating the omission of terms that follow an obvious pattern as
+   indicated by included terms.
+
+   The whole numbers from 1 to 100 can be shown as:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>,</mo>
+          <mn>2</mn> <mo>,</mo> <mn>3</mn> <mo>,</mo> <mo>...</mo>
+          <mo>,</mo> <mn>100</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 1,2,3,\ldots
+          ,100}</annotation> </semantics> :MATH]
+          {\displaystyle 1,2,3,\ldots ,100}
+
+   The positive whole numbers, an infinite list, can be shown as:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>,</mo>
+          <mn>2</mn> <mo>,</mo> <mn>3</mn> <mo>,</mo> <mo>...</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 1,2,3,\ldots
+          }</annotation> </semantics> :MATH]
+          {\displaystyle 1,2,3,\ldots }
+
+   To indicate omitted terms in a repeated operation, an ellipsis is
+   sometimes raised from the baseline, as:^[2]^: 115
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>+</mo>
+          <mn>2</mn> <mo>+</mo> <mn>3</mn> <mo>+</mo> <mo>.3</mo>
+          <mo>+</mo> <mn>100</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 1+2+3+\cdots
+          +100}</annotation> </semantics> :MATH]
+          {\displaystyle 1+2+3+\cdots +100}
+
+   But, this raised formatting is not standard. For example, Russian
+   mathematical texts use the baseline format.^[35]
+
+   The ellipsis is not a formally defined mathematical symbol. Repeated
+   summations or products may be more formally denoted using capital sigma
+   and capital pi notation, respectively:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>+</mo>
+          <mn>2</mn> <mo>+</mo> <mn>3</mn> <mo>+</mo> <mo>.3</mo>
+          <mo>+</mo> <mn>100</mn> <mtext> </mtext> <mo>=</mo> <munderover>
+          <mo>\sum</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          <mo>=</mo> <mn>1</mn> </mrow> <mrow class="MJX-TeXAtom-ORD">
+          <mn>100</mn> </mrow> </munderover> <mi>n</mi> <mo>=</mo>
+          <mn>100</mn> <mo>?</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 1+2+3+\cdots +100\
+          =\sum _{n=1}^{100}n=100?}</annotation> </semantics> :MATH]
+          {\displaystyle 1+2+3+\cdots +100\ =\sum _{n=1}^{100}n=100?} (see
+          termial)
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo></mo>
+          <mn>2</mn> <mo></mo> <mn>3</mn> <mo></mo> <mo>.3</mo>
+          <mo></mo> <mn>100</mn> <mtext> </mtext> <mo>=</mo> <munderover>
+          <mo>\prod</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          <mo>=</mo> <mn>1</mn> </mrow> <mrow class="MJX-TeXAtom-ORD">
+          <mn>100</mn> </mrow> </munderover> <mi>n</mi> <mo>=</mo>
+          <mn>100</mn> <mo>!</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 1\times 2\times
+          3\times \cdots \times 100\ =\prod
+          _{n=1}^{100}n=100!}</annotation> </semantics> :MATH]
+          {\displaystyle 1\times 2\times 3\times \cdots \times 100\ =\prod
+          _{n=1}^{100}n=100!} (see factorial)
+
+   Ellipsis is sometimes used where the pattern is not clear. For example,
+   indicating the indefinite continuation of an irrational number such as:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo>=</mo>
+          <mn>3.14159265</mn> <mo>...</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \pi
+          =3.14159265\ldots }</annotation> </semantics> :MATH]
+          {\displaystyle \pi =3.14159265\ldots }
+
+   It can be useful to display an expression compactly, for example:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>+</mo>
+          <mn>4</mn> <mo>+</mo> <mn>9</mn> <mo>+</mo> <mo>.3</mo>
+          <mo>+</mo> <msup> <mi>n</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>+</mo> <mo>.3</mo> <mo>+</mo>
+          <mn>400</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 1+4+9+\cdots
+          +n^{2}+\cdots +400}</annotation> </semantics> :MATH]
+          {\displaystyle 1+4+9+\cdots +n^{2}+\cdots +400}
+
+   In set notation, the ellipsis is used as horizontal, vertical and
+   diagonal for indicating missing matrix terms, such as the size-n
+   identity matrix:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>I</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>[</mo> <mtable
+          rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mn>1</mn>
+          </mtd> <mtd> <mn>0</mn> </mtd> <mtd> <mo>.3</mo> </mtd> <mtd>
+          <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd>
+          <mn>1</mn> </mtd> <mtd> <mo>.3</mo> </mtd> <mtd> <mn>0</mn>
+          </mtd> </mtr> <mtr> <mtd> <mo>:3</mo> </mtd> <mtd> <mo>:3</mo>
+          </mtd> <mtd> <mo>&#x22F1;</mo> </mtd> <mtd> <mo>:3</mo> </mtd>
+          </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mn>0</mn> </mtd>
+          <mtd> <mo>.3</mo> </mtd> <mtd> <mn>1</mn> </mtd> </mtr>
+          </mtable> <mo>]</mo> </mrow> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          I_{n}={\begin{bmatrix}1&0&\cdots &0\\0&1&\cdots &0\\\vdots
+          &\vdots &\ddots &\vdots \\0&0&\cdots
+          &1\end{bmatrix}}}</annotation> </semantics> :MATH]
+          {\displaystyle I_{n}={\begin{bmatrix}1&0&\cdots &0\\0&1&\cdots
+          &0\\\vdots &\vdots &\ddots &\vdots \\0&0&\cdots
+          &1\end{bmatrix}}}
+
+In computer programming
+
+   [edit]
+
+   Some programming languages use ellipsis to indicate a range or for a
+   variable argument list.
+
+   The CSS text-overflow property can be set to ellipsis, which cuts off
+   text with an ellipsis when it overflows the content area.^[36]^[37]
+
+In computer user interface
+
+   [edit]
+
+More
+
+   [edit]
+
+   An ellipsis is sometimes used as the label for a button to access user
+   interface that has been omitted - probably due to space limitations -
+   particularly in mobile apps running on small screen devices. This may
+   be described as a "more button".^[38]
+
+   Similar functionality may be accessible via a button with a hamburger
+   icon (=3) or a narrow version called the kebab icon which is a vertical
+   ellipsis (:3).
+
+More info needed
+
+   [edit]
+
+   According to some style guides, a menu item or button labeled with a
+   trailing ellipsis requests an operation that cannot be completed
+   without additional information and selecting it will prompt the user
+   for input.^[39] Without an ellipsis, selecting the item or button will
+   perform an action without user input.
+   [220px-Menu_%28computing%29_example.PNG] A drop-down menu of file
+   operations
+
+   For example, the menu item "Save" overwrites an existing file whereas
+   "Save as..." prompts the user for save options before saving.
+
+Busy/progress
+
+   [edit]
+
+   Ellipsis is commonly used to indicate that a longer-lasting operation
+   is in progress like "Loading...", "Saving...".
+
+   Sometimes progress is animated with an ellipse-like construct of
+   repeatedly adding dots to a label.
+
+In texting
+
+   [edit]
+
+   In text-based communications, the ellipsis may indicate:
+     * Floor holding, signal that more is to come, for instance when
+       people break up longer turns in chat.^[40]
+     * Politeness, for instance indicating topic change or
+       hesitation.^[41]
+     * Turn construction unit to signal silence, for example when
+       indicating disagreement, disapproval or confusion.^[42]
+
+   Although an ellipsis is complete with three periods (...), an
+   ellipsis-like construct with more dots is used to indicate
+   "trailing-off" or "silence".^[43] The extent of repetition in itself
+   might serve as an additional contextualization or paralinguistic cue;
+   one paper wrote that they "extend the lexical meaning of the words, add
+   character to the sentences, and allow fine-tuning and personalisation
+   of the message".^[44]
+
+   While composing a text message, some environments show others in the
+   conversation a typing awareness indicator ellipsis to indicate remote
+   activity.^[45]
+
+Computer representations
+
+   [edit]
+
+   In computing, several ellipsis characters have been codified.
+
+Unicode
+
+   [edit]
+
+   Unicode defines the following ellipsis characters:
+     * U+2026 ... HORIZONTAL ELLIPSIS
+     * U+0EAF &#xeaf; LAO ELLIPSIS
+     * U+1801 &#x1801; MONGOLIAN ELLIPSIS
+     * U+0E2F &#xe2f; THAI CHARACTER PAIYANNOI
+     * U+22EE :3 VERTICAL ELLIPSIS
+     * U+22EF .3 MIDLINE HORIZONTAL ELLIPSIS
+     * U+22F0 &#x22f0; UP RIGHT DIAGONAL ELLIPSIS
+     * U+22F1 &#x22f1; DOWN RIGHT DIAGONAL ELLIPSIS
+     * U+FE19 &#xfe19; PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS
+
+   Unicode recognizes a series of three period characters (U+002E
+   . FULL STOP) as compatibility equivalent (though not canonical) to the
+   horizontal ellipsis character.^[46]
+
+HTML
+
+   [edit]
+
+   In HTML, the horizontal ellipsis character may be represented by the
+   entity reference &hellip; (since HTML 4.0), and the vertical ellipsis
+   character by the entity reference &vellip; (since HTML 5.0).^[47]
+   Alternatively, in HTML, XML, and SGML, a numeric character reference
+   such as &#x2026; or &#8230; can be used.
+
+TeX
+
+   [edit]
+
+   In the TeX typesetting system, the following types of ellipsis are
+   available:
+
+                                  Name       Glyph TeX markup
+   Lower ellipsis
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>...</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \ldots
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \ldots } \ldots
+   Centred ellipsis
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>.3</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \cdots
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \cdots } \cdots
+   Diagonal ellipsis
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>&#x22F1;</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \ddots
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \ddots } \ddots
+   Vertical ellipsis
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>:3</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \vdots
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \vdots } \vdots
+
+   In LaTeX, the reverse orientation of \ddots can be achieved with
+   \reflectbox provided by the graphicx package: \reflectbox{\ddots}
+   yields [18px-Iddots_black.svg.png] .
+
+   With the amsmath package from AMS-LaTeX, more specific ellipses are
+   provided for math mode.^[48]
+
+   Markup Usage Example Output
+   \dotsc dots with commas 1, 2, \dotsc , 9
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>,</mo> <mn>2</mn>
+   <mo>,</mo> <mo>...</mo> <mo>,</mo> <mn>9</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle 1,2,\dotsc
+   ,9}</annotation> </semantics> :MATH]
+   {\displaystyle 1,2,\dotsc ,9}
+   \dotsb dots with binary operators/relations 1 + 2 + \dotsb + 9
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>+</mo> <mn>2</mn>
+   <mo>+</mo> <mo>.3</mo> <mo>+</mo> <mn>9</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle 1+2+\dotsb
+   +9}</annotation> </semantics> :MATH]
+   {\displaystyle 1+2+\dotsb +9}
+   \dotsm dots with multiplication A_1 A_2 \dotsm A_9
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>A</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <msub> <mi>A</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>.3</mo>
+   <msub> <mi>A</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>9</mn> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle A_{1}A_{2}\dotsm
+   A_{9}}</annotation> </semantics> :MATH]
+   {\displaystyle A_{1}A_{2}\dotsm A_{9}}
+   \dotsi dots with integrals \int_{A_1}\int_{A_2}\dotsi\int_{A_9}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mo>\int </mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msub> <mi>A</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> </mrow> </msub>
+   <msub> <mo>\int </mo> <mrow class="MJX-TeXAtom-ORD"> <msub> <mi>A</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mrow>
+   </msub> <mo>.3</mo> <msub> <mo>\int </mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msub> <mi>A</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>9</mn> </mrow> </msub> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \int _{A_{1}}\int
+   _{A_{2}}\dotsi \int _{A_{9}}}</annotation> </semantics> :MATH]
+   {\displaystyle \int _{A_{1}}\int _{A_{2}}\dotsi \int _{A_{9}}}
+   \dotso other dots 123 \dotso 9
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>123</mn> <mo>...</mo>
+   <mn>9</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 123\dotso 9}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 123\dotso 9}
+
+Other
+
+   [edit]
+
+   The horizontal ellipsis character also appears in older character maps:
+     * in Windows-1250--Windows-1258 and in IBM/MS-DOS Code page 874, at
+       code 85 (hexadecimal)
+     * in Mac-Roman, Mac-CentEuro and several other Macintosh encodings,
+       at code C9 (hexadecimal)
+     * in Ventura International encoding at code C1 (hexadecimal)
+
+   Note that ISO/IEC 8859 encoding series provides no code point for
+   ellipsis.
+
+   As with all characters, especially those outside the ASCII range, the
+   author, sender and receiver of an encoded ellipsis must be in agreement
+   upon what bytes are being used to represent the character. Naive text
+   processing software may improperly assume that a particular encoding is
+   being used, resulting in mojibake.
+
+Input
+
+   [edit]
+
+   In Windows using a suitable code page, U+2026
+   ... HORIZONTAL ELLIPSIS can be inserted with Alt+0133, using the
+   numeric keypad.
+
+   In macOS, it can be inserted with
+   OPT Opt+; (on an English language keyboard).
+
+   In some Linux distributions, it can be inserted with
+   AltGr+. (this produces an interpunct on other systems), or Compose...
+
+   In Android, ellipsis is a long-press key. If Gboard is in alphanumeric
+   layout, change to numeric and special characters layout by pressing
+   ?123 from alphanumeric layout. Once in numeric and special characters
+   layout, long press . key to insert an ellipsis. This is a single symbol
+   without spaces in between the three dots ( ... ).
+
+   In Chinese and sometimes in Japanese, ellipsis characters are made by
+   entering two consecutive horizontal ellipses, each with Unicode code
+   point U+2026. In vertical texts, the application should rotate the
+   symbol accordingly.
+
+See also
+
+   [edit]
+
+     * Aposiopesis - Figure of speech: an unfinished sentence
+     * Caesura - Pause or break in poetry or music
+     * Code folding or holophrasting - switching between full text and an
+       ellipsis
+     * Cohesion (linguistics) - Grammatical and lexical linking in text
+     * Dinkus - Typographic symbol ( * * * ) - a row of three dots
+       (usually widely separated) alone in the middle of a gap between two
+       paragraphs, to indicate a sub-chapter.
+     * An em dash -- is sometimes used instead of an ellipsis, especially
+       in written dialogue.
+     * Elision - Omission of sounds in words or phrases. In written text,
+       this is sometimes denoted using the horizontal ellipsis.
+     * Leader (typography) - Row of dots used in tables of contents
+     * Leiden Conventions - Textual conventions for representing dubious,
+       illegible or missing characters in manuscripts.
+     * Line break (poetry) - Subdivision of a poem
+
+References
+
+   [edit]
+
+    1. ^ ^a ^b "ellipsis". Oxford English Dictionary. Lexico.com. Archived
+       from the original on 14 July 2020. Retrieved 13 July 2020.
+    2. ^ ^a ^b ^c ^d ^e ^f Merriam-Webster's Manual for Writers and
+       Editors. Merriam-Webster. 1998. ISBN 978-0-87779-622-0. Retrieved
+       16 October 2024.
+    3. ^ ^a ^b Toner, Anne (2015). Ellipsis in English Literature: Signs
+       of Omission. Cambridge, England: Cambridge University Press.
+       p. 151.. According to Toner it is difficult to establish when the
+       "dot dot dot" phrase was first used. There is an early instance,
+       which is perhaps the first in a piece of fiction, in Virginia
+       Woolf's short story "An Unwritten Novel" (1920).
+    4. ^ Source for suspension: Trask, Larry (1997). "Quotation Marks and
+       Direct Quotations". Guide to Puntuation [sic.] Department of
+       Informatics, University of Sussex. Retrieved 1 January 2024.^[not
+       verified in body]
+    5. ^ "Ellipses defined". The Chicago Manual of Style Online
+       (16th ed.). 2010.
+    6. ^ Fung, Henry (2016). "AP Style: How to Use Ellipses". Archived
+       from the original on 11 December 2018. Retrieved 10 December 2018.
+    7. ^ Butterick, Matthew. "Butterick's Practical Typography" (2nd ed.).
+       Archived from the original on 14 December 2018. Retrieved 11
+       December 2018.
+    8. ^ Robinson, Melia (30 April 2016). "Here's how to use the four-dot
+       ellipsis like a pro". BusinessInsider.com. Insider Inc. / Axel
+       Springer SE. Archived from the original on 24 December 2017.
+       Retrieved 27 July 2018.
+    9. ^ "Using AP Style Ellipses Correctly". WordAgents.com. Lindenhurst,
+       New York: Word Agents. 5 December 2017. Archived from the original
+       on 27 July 2018. Retrieved 27 July 2018. ^[better source needed]
+   10. ^ The Chicago Manual of Style, 17th edition (2017), 13.51-52.
+   11. ^ Summarized here: Jackson, Paige (22 April 2011). "Ellipses-When
+       and How?". Blog.APAStyle.org. American Psychological Association.
+       Archived from the original on 10 December 2017. Retrieved 27 July
+       2018.
+   12. ^ "Usage Notes: All About Ellipses - It's time to stop calling them
+       'dot dot dot'". Merriam-Webster.com. Merriam-Webster. 2017.
+       Archived from the original on 31 May 2017. Retrieved 27 July 2018.
+   13. ^ Buxton, Alex (21 October 2015). "... dot, dot, dot: How the
+       ellipsis made its mark". Research. Cambridge, England: Cambridge
+       University Press. Archived from the original on 4 January 2018.
+       Retrieved 27 July 2018.
+   14. ^ McNabb, Cameron Hunt (17 August 2016). "The Mysterious History of
+       the Ellipsis, From Medieval Subpuncting to Irrational Numbers".
+       Slate. Archived from the original on 18 August 2016. Retrieved 18
+       August 2016.
+   15. ^ Raymond Chandler, Frank MacShane. Raymond Chandler: Stories and
+       Early Novels. First Edition. New York: Library of America. 1995.
+       Note on the Texts.
+   16. ^ "What Are Ellipses in a Poem?". Archived from the original on 5
+       March 2016. Retrieved 12 January 2018.
+   17. ^ `HERB CAEN WAY . . .' HONORS S.F. COLUMNIST Archived 2017-09-05
+       at the Wayback Machine, in the Deseret News; published May 29,
+       1996; retrieved September 5, 2017
+   18. ^ "Ellipsis". bookdesign.ca. 2011. Retrieved 29 April 2021.
+   19. ^ "Chicago Style Q&A: How do I insert an ellipsis in my
+       manuscript?". The Chicago Manual of Style, edition 16. University
+       of Chicago Press. 2010. Archived from the original on 10 October
+       2010. Retrieved 10 February 2011.
+   20. ^ Fowler, H. Ramsey, Jane E. Aaron, Murray McArthur. The Little,
+       Brown Handbook. Fourth Canadian Edition. Toronto: Pearson Longman.
+       2005. p. 440.
+   21. ^ Jones, Karalyn (2009). "Using Ellipsis in MLA Style". University
+       of Houston-Victoria. Archived from the original on 12 June 2018.
+       Retrieved 8 June 2018.
+   22. ^ "Home Page" (PDF). Archived (PDF) from the original on 4 August
+       2016. Retrieved 5 June 2016.
+   23. ^ Goldstein, Norm, editor. "Associated Press Stylebook and Briefing
+       on Media Law". 2005. pp.328-329.
+   24. ^ New Hart's Rules: The Oxford Style Guide. 2nd ed. Oxford: Oxford
+       University Press, 2014.
+   25. ^ "University of Oxford Style Guide: Hilary term 2016" (PDF).
+       Oxford: University of Oxford. 2016. p. 15. Retrieved 18 May 2017.
+   26. ^ ",_ninoDaZiYARe <'a5mari"KoKi"wanai5dekudasai5>'" [Junko
+       Akimoto used puns she was good at on Koki: "Please don't push me
+       around too much."]. SANSPO.COM. SANKEI DIGITAL Inc. 5 June 2017.
+       Archived from the original on 9 March 2019. Retrieved 10 January
+       2018.
+   27. ^ "ga<'...>'bakari<'Ri-6Da-6>' nosei5nisuruZuRusamo" [The
+       ending is just "..." "Three-point leader syndrome"].
+       NEWSPoSuToSeBuN6. 15 January 2021. Retrieved 27 March 2022.
+   28. ^ Mandelin, Clyde (8 September 2013). "Legends of Localization: How
+       Japanese Ellipsis Usage Compares with English". Legends of
+       Localization. Archived from the original on 14 December 2018.
+       Retrieved 14 December 2018.
+   29. ^ ^a ^b "Designing with the Hanzi script - Keith Tam". 21 July
+       2019. Retrieved 22 July 2024.
+   30. ^ "", , (in Chinese), 14 July 2024, retrieved 22 July
+       2024
+   31. ^ ^a ^b "Puntos suspensivos". Real Academia Espanola. Retrieved 3
+       October 2024.
+   32. ^ "Deutsche Rechtschreibung. Regeln und Wrterverzeichnis" (PDF)
+       (in German). Rat fr deutsche Rechtschreibung. 2010. p. 100.
+       Archived (PDF) from the original on 26 April 2017. Retrieved 18
+       October 2015. "$ 100: Stehen die Auslassungspunkte am Ende eines
+       Ganzsatzes, so setzt man keinen Satzschlusspunkt."
+   33. ^ "La punteggiatura". Accademia della Crusca. Retrieved 1 September
+       2021.
+   34. ^ "Puntini di sospensione". Treccani. Retrieved 1 September 2021.
+   35. ^ Mil'chin A. `E. Izdatel'skij slovar'-spravochnik Archived
+       2015-03-26 at the Wayback Machine.-- Izd. 3-e, ispr. i dop.,
+       `Elektronnoe -- M.: OLMA-Press, 2006. (in Russian)
+   36. ^ "text-overflow". Mozilla Developer Network. Archived from the
+       original on 11 January 2018. Retrieved 12 January 2018.
+   37. ^ "CSS Basic User Interface Module Level 3 (CSS3 UI)".
+       drafts.csswg.org. Archived from the original on 11 January 2018.
+       Retrieved 12 January 2018.
+   38. ^ "The Mighty Ellipsis - How 3 little dots can say so much". 6
+       September 2016. Retrieved 6 November 2019.
+   39. ^ "developer.apple.com: Menu and Menu Item Titles". Archived from
+       the original on 31 January 2018. Retrieved 31 January 2018.
+   40. ^ Simpson, J (2005). "Meaning-making online: Discourse and CMC in a
+       Language learning community". Recent Research Developments in
+       Learning Technologies. CiteSeerX 10.1.1.108.463.
+   41. ^ Erika, Darics (2010). "Relational work in synchronous text-based
+       CMC of virtual teams". Handbook of Research on Discourse Behavior
+       and Digital Communication: Language Structures and Social
+       Interaction. Archived from the original on 5 April 2014. Retrieved
+       9 July 2012.
+   42. ^ Ong, Kenneth Keng Wee (2011). "Disagreement, Confusion,
+       Disapproval, Turn Elicitation and Floor Holding: Actions
+       accomplished by Ellipsis Marks-Only Turns and Blank Turns in
+       Quasisynchronous Chat". Discourse Studies. 13 (2): 211-234.
+       doi:10.1177/1461445610392138. hdl:10220/7160. S2CID 220786774.
+   43. ^ Maness, Jack M. (2007). "The Power of Dots: Using Nonverbal
+       Compensators in Chat Reference" (PDF). Proceedings of the 2007
+       Annual Meeting of ASIS&T. Annual Meeting of ASIS&T. University
+       Libraries - University of Colorado at Boulder.
+       doi:10.1002/meet.1450440341. Archived from the original (PDF) on 3
+       December 2012. Retrieved 24 October 2011.
+   44. ^ Kalman, Yoram M.; Gergle, Darren Robert (2010), "CMC Cues Enrich
+       Lean Online Communication: The Case of Letter and Punctuation Mark
+       Repetitions" (PDF), Proceedings of the Fifth Mediterranean
+       Conference on Information Systems, archived from the original on 8
+       December 2013, retrieved 2 March 2023
+   45. ^ Gardiner, Michael E.; Haladyn, Julian Jason (4 October 2016).
+       Boredom Studies Reader: Frameworks and Perspectives. Taylor &
+       Francis. p. 147. ISBN 978-1-317-40361-6.
+   46. ^ "Unicode Data". "2026;HORIZONTAL ELLIPSIS;Po;0;ON;<compat> 002E
+       002E 002E;;;;N;;;;;"
+   47. ^ "W3C Working Draft: HTML5: 8.5 Named character references". 2011.
+       Archived from the original on 23 November 2012. Retrieved 8
+       November 2012.
+   48. ^ User's Guide for the amsmath Package. American Mathematical
+       Society, 1999, p. 12.
+
+Further reading
+
+   [edit]
+
+     *
+
+   Bringhurst, Robert (2002). The Elements of Typographic Style (Version
+   2.5 ed.). Point Roberts, Washington: Hartley & Marks. pp. 82-83.
+   ISBN 978-0-88179-132-7. OCLC 50848361.
+
+     Halliday, M. A. K., and Ruqayia, H. (1976), Cohesion in English,
+   London: Longman.
+
+     Morris, William (1980). The Houghton Mifflin Canadian Dictionary of
+   the English Language. Markham, Ontario: Houghton Mifflin Canada. p. 424
+   (spacing of dots: . . .). ISBN 978-0-395-29654-7. OCLC 8063090.
+
+External links
+
+   [edit]
+
+     * The dictionary definition of ellipsis at Wiktionary
+     * Media related to Ellipses (punctuation) at Wikimedia Commons
+
+     * v
+     * t
+     * e
+
+   Common punctuation and other typographical symbols
+
+     *       space
+     *   ,   comma
+     *   :   colon
+     *   ;   semicolon
+     *   -   hyphen
+     *   '   '   apostrophe
+     *   '   ''   '''   prime
+     *   .   full stop
+
+     *   &   ampersand
+     *   @   at sign
+     *   ^   caret
+     *   /   slash
+     *   \   backslash
+     *   ...   ellipsis
+     *   *   asterisk
+     *   :X   Reference mark
+     *   ***   asterism
+     *     *  *  *      dinkus
+
+     *   -   hyphen-minus
+     *      -   --   dash
+     *         double hyphen
+
+     *   ?   question mark
+     *   !   exclamation mark
+     *   ?!   interrobang
+     *         inverted ! and ?
+     *      irony punctuation
+
+     *   #   number sign
+     *   No.   numero sign
+     *         ordinal indicator
+     *   %   percent sign
+     *    0/00   per mille
+     *    0/000   basis point
+     *      degree symbol
+     *      diameter sign
+
+     *   +   -   plus and minus signs
+     *      multiplication sign
+     *      division sign
+     *   ~   tilde
+     *      plus-minus sign
+     *   -/+   minus-plus sign
+     *   ^   caret
+     *    SQRT    radical symbol
+
+     *   _   underscore
+     *      tie
+     *   |      ||   vertical bar
+     *    o    bullet
+     *      interpunct
+
+     *      copyright symbol
+     *   (P)   sound recording copyright
+     *      registered trademark
+     *   ^SM   service mark symbol
+     *   ^TM   trademark symbol
+
+     *   ` '   " "   ' '   " "   quotation mark
+     *   < >       guillemet
+     *   ( )   [ ]   { }   &#x27e8; &#x27e9;   bracket
+     *   "   ditto mark
+
+     *   /-   /=   dagger
+     *      fleuron (hedera, aldus)
+     *   -->   manicule
+     *   LZ      lozenge
+     *         pilcrow (paragraph mark)
+     *      section mark
+
+     * Version of this table as a sortable list
+
+     * Currency symbols
+     * Diacritics (accents)
+     * Logic symbols
+     * Math symbols
+     * Whitespace
+
+     * Chinese punctuation
+     * Hebrew punctuation
+     * Japanese punctuation
+     * Korean punctuation
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Ellipsis&oldid=1254011050"
+
+   Categories:
+     * Mathematical notation
+     * Punctuation
+     * Typographical symbols
+
+   Hidden categories:
+     * All articles with unsourced statements
+     * Articles with unsourced statements from July 2024
+     * All articles lacking reliable references
+     * Articles lacking reliable references from July 2018
+     * Webarchive template wayback links
+     * CS1 Chinese-language sources (zh)
+     * CS1 German-language sources (de)
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Use dmy dates from December 2020
+     * Articles containing Ancient Greek (to 1453)-language text
+     * Articles containing Polish-language text
+     * Articles containing Japanese-language text
+     * Articles containing Chinese-language text
+     * Articles containing Latin-language text
+     * Articles containing French-language text
+     * Articles containing Italian-language text
+     * Commons category link is on Wikidata
+
+     * This page was last edited on 29 October 2024, at 00:45 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
